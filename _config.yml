@@ -8,3 +8,4 @@ github_username:  phoenixmatrix
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
